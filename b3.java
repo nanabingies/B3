@@ -1,6 +1,3 @@
-/* MR Eklu den this ein TA's kraa dey worry *
-  * make we look sharp then plete this programming stress *
-  * /
 import java.util.*;
 
 interface Animal{
